@@ -1,0 +1,15 @@
+C:\Users\Freezzz\source\repos\forLab\forLab\bin\Debug\net7.0\forLab.exe
+C:\Users\Freezzz\source\repos\forLab\forLab\bin\Debug\net7.0\forLab.deps.json
+C:\Users\Freezzz\source\repos\forLab\forLab\bin\Debug\net7.0\forLab.runtimeconfig.json
+C:\Users\Freezzz\source\repos\forLab\forLab\bin\Debug\net7.0\forLab.dll
+C:\Users\Freezzz\source\repos\forLab\forLab\bin\Debug\net7.0\forLab.pdb
+C:\Users\Freezzz\source\repos\forLab\forLab\obj\Debug\net7.0\forLab.csproj.AssemblyReference.cache
+C:\Users\Freezzz\source\repos\forLab\forLab\obj\Debug\net7.0\forLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Freezzz\source\repos\forLab\forLab\obj\Debug\net7.0\forLab.AssemblyInfoInputs.cache
+C:\Users\Freezzz\source\repos\forLab\forLab\obj\Debug\net7.0\forLab.AssemblyInfo.cs
+C:\Users\Freezzz\source\repos\forLab\forLab\obj\Debug\net7.0\forLab.csproj.CoreCompileInputs.cache
+C:\Users\Freezzz\source\repos\forLab\forLab\obj\Debug\net7.0\forLab.dll
+C:\Users\Freezzz\source\repos\forLab\forLab\obj\Debug\net7.0\refint\forLab.dll
+C:\Users\Freezzz\source\repos\forLab\forLab\obj\Debug\net7.0\forLab.pdb
+C:\Users\Freezzz\source\repos\forLab\forLab\obj\Debug\net7.0\forLab.genruntimeconfig.cache
+C:\Users\Freezzz\source\repos\forLab\forLab\obj\Debug\net7.0\ref\forLab.dll
